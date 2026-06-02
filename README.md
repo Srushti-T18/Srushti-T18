@@ -1,11 +1,5 @@
-<h1 align="center">Hello, I'm Srushti</h1>
-
-<h3 align="center">
-Aspiring Software Engineer | Competitive Programmer | Full Stack Developer
-</h3>
-
 <p align="center">
-Building projects, solving DSA and exploring AI 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+I'm+Srushti+%F0%9F%91%8B;Software+Developer;Competitive+Programmer;Building+Cool+Things+%F0%9F%9A%80" />
 </p>
 
 ## 🛠️ Tech Stack
