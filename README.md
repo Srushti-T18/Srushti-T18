@@ -1,6 +1,15 @@
+<h1 align="center">
+  🌸 Srushti Talandage 🌸
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=250&section=header&text=Srushti%20Talandage&fontSize=60&fontAlignY=40&animation=fadeIn" />
+  <i>Code • Create • Repeat</i>
 </p>
+
+<p align="center">
+  ✨ Building Projects | Solving DSA | Exploring AI ✨
+</p>
+
 ## 🛠️ Tech Stack
 
 <p align="center">
