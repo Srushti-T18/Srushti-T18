@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm Srushti</h1>
+
+<h3 align="center">
+Aspiring Software Engineer | Competitive Programmer | Full Stack Developer
+</h3>
+
+<p align="center">
+Building projects, solving DSA and exploring AI 
+</p>
 
 <!--
 **Srushti-T18/Srushti-T18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
