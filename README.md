@@ -8,6 +8,12 @@ Aspiring Software Engineer | Competitive Programmer | Full Stack Developer
 Building projects, solving DSA and exploring AI 
 </p>
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nodejs,mongodb,git,github,figma" />
+</p>
+
 <!--
 **Srushti-T18/Srushti-T18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
