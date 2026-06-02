@@ -4,11 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=C778DD&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer" alt="Typing SVG" />
 
-### Computer Science and Business Undergraduate
-
-Interested in Technology and Business
-
-Building Projects • Solving DSA • Exploring AI
+### • Building Projects • Solving DSA • Exploring AI
 
 </div>
 
