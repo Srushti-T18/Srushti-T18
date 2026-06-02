@@ -1,20 +1,55 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hey, I'm Srushti
-</h1>
+<div align="center">
 
-<h3 align="center">
-  Turning ☕ into Code
-</h3>
+# Hello, I'm Srushti
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=C778DD&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer" alt="Typing SVG" />
+
+### Computer Science Undergraduate
+
+• Building Projects  • Solving DSA  • Exploring AI
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nodejs,mongodb,git,github,figma" />
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,mysql" />
 </p>
 
-<!--
-**Srushti-T18/Srushti-T18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/srushti-talandage">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+</div>
+
 
 Here are some ideas to get you started:
 
