@@ -1,14 +1,11 @@
 <h1 align="center">
-  🌸 Srushti Talandage 🌸
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hey, I'm Srushti
 </h1>
 
-<p align="center">
-  <i>Code • Create • Repeat</i>
-</p>
-
-<p align="center">
-  ✨ Building Projects | Solving DSA | Exploring AI ✨
-</p>
+<h3 align="center">
+  Turning ☕ into Code
+</h3>
 
 ## 🛠️ Tech Stack
 
