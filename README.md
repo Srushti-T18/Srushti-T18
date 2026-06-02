@@ -18,7 +18,7 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,mysql" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
 
 ### Frontend
 
