@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+I'm+Srushti+%F0%9F%91%8B;Software+Developer;Competitive+Programmer;Building+Cool+Things+%F0%9F%9A%80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=250&section=header&text=Srushti%20Talandage&fontSize=60&fontAlignY=40&animation=fadeIn" />
 </p>
-
 ## 🛠️ Tech Stack
 
 <p align="center">
