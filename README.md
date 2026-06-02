@@ -4,9 +4,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=C778DD&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer" alt="Typing SVG" />
 
-### Comp Sci and Business Undergrad, interested in the intersection of Engineering and Business
+### Computer Science and Business Undergraduate
 
-• Building Projects  • Solving DSA  • Exploring AI
+Interested in Technology and Business
+
+Building Projects • Solving DSA • Exploring AI
 
 </div>
 
@@ -43,9 +45,5 @@
 <a href="mailto:talandagesrushti@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
-</div>
-
----
 
 </div>
