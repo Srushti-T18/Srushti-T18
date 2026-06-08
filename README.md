@@ -16,15 +16,53 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
+<a href="https://www.java.com">
+  <img src="https://skillicons.dev/icons?i=java" />
+</a>
+
+<a href="https://www.python.org">
+  <img src="https://skillicons.dev/icons?i=python" />
+</a>
+
+<a href="https://isocpp.org">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</a>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css" />
+</a>
+
+<a href="https://react.dev">
+  <img src="https://skillicons.dev/icons?i=react" />
+</a>
+
+<a href="https://nextjs.org">
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+</a>
+
+<a href="https://tailwindcss.com">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</a>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<a href="https://nodejs.org">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+
+<a href="https://expressjs.com">
+  <img src="https://skillicons.dev/icons?i=express" />
+</a>
 
 </div>
 
